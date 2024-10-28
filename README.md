@@ -1,2 +1,2 @@
-complete calculator programmed using calculator
+complete calculator programmed using python
 (free to use)
